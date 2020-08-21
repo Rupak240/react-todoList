@@ -1,5 +1,21 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+<br />
+
+# To-Do-List-App-in-React-code
+
+*This is a simple To Do Application in react. This is a fun project, I've used React components, React forms, event handlers etc.*
+
+## Commands used to install Font awesome:
+
+```
+npm i --save @fortawesome/fontawesome-svg-core
+
+npm i --save @fortawesome/free-solid-svg-icons
+
+npm i --save @fortawesome/react-fontawesome
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
