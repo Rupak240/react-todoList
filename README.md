@@ -1,7 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<br />
-
 # To-Do-List-App-in-React-code
 
 *This is a simple To Do Application in react. This is a fun project, I've used React components, React forms, event handlers etc.*
